@@ -1,0 +1,17 @@
+http://hyperphysics.phy-astr.gsu.edu/hbase/Solids/Fermi.html
+
+https://ecee.colorado.edu/~bart/book/book/chapter2/pdf/ch2_4_2.pdf
+
+http://ecee.colorado.edu/ecen3320/PSolns/PSoln3
+
+
+
+
+Dear hadi,
+You can solve this problem as follows:
+You are given that the intrinsic  concentration ni as
+ni^2 = Nc Nv exp - Eg/kT if Eg is measured in electron volt  eV, kT must be also in eV,
+It is known that the Nc= Ac N^3/2, Nv=Av T^3/2, Ac and Av are known constants since Nc and Nv  are known at room temperature T= 300 K.
+To get the requited temperature T you need only to:
+ni = Na or Nd. If you have curve for ni as a  function of T you can read the temperature corresponding to certain ni = Nd or Na.
+wish you success
